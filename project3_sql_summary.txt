@@ -1,0 +1,12 @@
+PROJECT-3 SQL SUMMARY
+----------------------------------------
+Input file: C:\Users\Ayesha Asna\Downloads\Dataset for Data Analytics (2).xlsx
+Rows: 1200, Columns: 14
+SQLite table: orders_data
+
+High value orders found (TotalPrice > 1000): 10 rows in top result.
+Most ordered product: Printer (181 orders).
+Top payment method by revenue: Credit Card (Revenue=263847.63).
+Filtered status groups (TotalPrice >= 500): 5 groups.
+
+All query outputs were printed during execution and saved as CSV files.
